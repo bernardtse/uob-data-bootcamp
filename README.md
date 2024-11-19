@@ -4,7 +4,30 @@ This assignment hub showcases the assignments I completed in the University of B
 
 ## Contents
 1. [Group Projects](#1-group-projects)
+   - [Project 1 - Exploratory Data Analysis: Music Listening Habits on Spotify](#project-1---exploratory-data-analysis-music-listening-habits-on-spotify)
+   - [Project 2 - Crowdfunding ETL](#project-2---crowdfunding-etl)
+   - [Project 3 - Garmin Data Engineering](#project-3---garmin-data-engineering)
+   - [Project 4 - Diabetes Prediction](#project-4---diabetes-prediction)
+
 2. [Challenges](#2-challenges)
+   - [Excel Challenge](#excel-challenge)
+   - [VBA Challenge](#vba-challenge)
+   - [Python Challenge](#python-challenge)
+   - [Pandas Challenge](#pandas-challenge)
+   - [Module 5 Challenge](#module5-challenge)
+   - [Python API Challenge](#python-api-challenge)
+   - [SQL Challenge](#sql-challenge)
+   - [SQLAlchemy Challenge](#sqlalchemy-challenge)
+   - [Module 11 Challenge](#module11-challenge)
+   - [NoSQL Challenge](#nosql-challenge)
+   - [Belly Button Challenge](#belly-button-challenge)
+   - [Leaflet Challenge](#leaflet-challenge)
+   - [Tableau Challenge](#tableau-challenge)
+   - [Crypto Clustering](#cryptoclustering)
+   - [Credit Risk Classification](#credit-risk-classification)
+   - [Deep Learning Challenge](#deep-learning-challenge)
+   - [Home Sales](#home_sales)
+
 
 ## 1. Group Projects
 
