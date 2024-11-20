@@ -82,7 +82,8 @@ This assignment hub showcases the assignments I completed in the University of B
 ### VBA-challenge
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This challenge focuses on analysing stock market data using VBA (Visual Basic for Applications) scripting in Excel. The task is to create a script that loops through quarterly stock data and calculates key metrics, including the ticker symbol, quarterly price changes, percentage change, total stock volume, and highlights the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. Additionally, the script applies conditional formatting to highlight positive and negative changes in stock prices, making the results visually clear and easy to interpret.
+
 - **URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
 - **Skills:** Excel, VBA
 
