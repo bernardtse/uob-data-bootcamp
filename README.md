@@ -100,12 +100,15 @@ This assignment hub showcases the assignments I completed in the University of B
 - **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 - **Skills:** Python, Pandas
 
-### module5-challenge
+### module5-challenge testing something else
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This challenge focuses on analysing preclinical study data from Pymaceuticals, Inc., a pharmaceutical company researching treatments for squamous cell carcinoma (SCC), a common form of skin cancer. The study involved 249 mice treated with various drug regimens over 45 days, with tumour development observed and recorded. The goal was to compare the effectiveness of the company’s drug of interest, Capomulin, against other treatments.  
+
+  As the senior data analyst, the task was to clean and process the data, conduct statistical analyses, and generate visualisations to summarise findings. Key aspects included calculating summary statistics, identifying outliers, performing correlation and regression analyses, and creating plots to effectively communicate the results. This challenge required strong skills in data manipulation, statistical interpretation, and visual storytelling using Python and Matplotlib.
+
 - **URL:** [https://github.com/bernardtse/module5-challenge](https://github.com/bernardtse/module5-challenge)
-- **Skills:** Python, Pandas, Matplotlib
+- **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
 
 ### python-api-challenge
 - **Overview:**
