@@ -110,7 +110,8 @@ This assignment hub showcases the assignments I completed in the University of B
 ### python-api-challenge
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This challenge explores global weather patterns and demonstrates how weather data can guide vacation planning. Using Python, the analysis examines the relationship between latitude and weather variables like temperature, humidity, cloudiness, and wind speed. Skills applied include data retrieval through APIs (OpenWeatherMap and Geoapify), data cleaning and manipulation using pandas, and statistical analysis with linear regression. The results are visualised through scatter plots, regression charts, and interactive maps created with matplotlib and hvplot. This challenge highlights the use of programming, API integration, and data visualisation to extract meaningful insights from real-world weather data.
+  
 - **URL:** [https://github.com/bernardtse/python-api-challenge](https://github.com/bernardtse/python-api-challenge)
 - **Skills:** Python, JSON
 
