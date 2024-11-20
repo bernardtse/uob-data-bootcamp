@@ -100,7 +100,7 @@ This assignment hub showcases the assignments I completed in the University of B
 - **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 - **Skills:** Python, Pandas
 
-### module5-challenge testing something else
+### module5-challenge
 - **Overview:**
 
   This challenge focuses on analysing preclinical study data from Pymaceuticals, Inc., a pharmaceutical company researching treatments for squamous cell carcinoma (SCC), a common form of skin cancer. The study involved 249 mice treated with various drug regimens over 45 days, with tumour development observed and recorded. The goal was to compare the effectiveness of the company’s drug of interest, Capomulin, against other treatments.  
