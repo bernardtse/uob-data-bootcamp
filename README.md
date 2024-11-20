@@ -127,7 +127,7 @@ This assignment hub showcases the assignments I completed in the University of B
 ### module11-challenge
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This challenge involves scraping and analysing data related to Mars using web scraping techniques. Part 1 focuses on scraping news articles from NASA's Mars News website to extract titles and previews of the latest articles. Part 2 involves scraping and analysing weather data from the Mars Temperature Data Site, which includes insights about temperature and atmospheric pressure. The results are designed to be insightful and visually accessible.
 - **URL:** [https://github.com/bernardtse/module11-challenge](https://github.com/bernardtse/module11-challenge)
 - **Skills:** Python, Beautiful Soup (web scraping)
 
