@@ -43,7 +43,7 @@ This assignment hub showcases the assignments I completed in the University of B
 ### Project 2 - Crowdfunding ETL
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This Crowdfunding ETL (Extract, Transform, Load) Mini Project involves building an ETL pipeline to process and analyse crowdfunding data. The project includes data extraction and transformation using Python and Pandas, followed by exporting the data into CSV files for further use. These CSV files are then used to create an Entity-Relationship Diagram (ERD) and a database schema, which are implemented in a PostgreSQL database. The processed data is analysed to provide meaningful insights into the crowdfunding campaign landscape.
 - **URL:** [https://github.com/bernardtse/Crowdfunding_ETL](https://github.com/bernardtse/Crowdfunding_ETL)
 - **Skills:** Python, PostgreSQL, data ETL (extract, load, transform)
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Safa Ali](https://github.com/Safa297)
