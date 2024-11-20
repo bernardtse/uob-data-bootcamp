@@ -146,7 +146,7 @@ This assignment hub showcases the assignments I completed in the University of B
   The dashboard allows users to analyse this microbial diversity through dynamic visualisations, including bar and bubble charts. It also displays demographic metadata associated with each sample. By enabling the selection and examination of individual samples, the project highlights the significance of microbial presence and variation within the human navel microbiome.
 
 - **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
-- **Skills:** HTML, CSS, Javascript, Plotly.js, Bootstrap
+- **Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
 
 ### leaflet-challenge
 - **Overview:**
