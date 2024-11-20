@@ -134,7 +134,7 @@ This assignment hub showcases the assignments I completed in the University of B
 ### nosql-challenge
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  The UK Food Standards Agency assesses food hygiene ratings for establishments across the United Kingdom. This project analyses data from the agency to help journalists at *Eat Safe, Love* identify key insights for articles. The analysis is carried out using MongoDB and Jupyter Notebooks, focusing on data manipulation, updates, and exploratory queries.
 - **URL:** [https://github.com/bernardtse/nosql-challenge](https://github.com/bernardtse/nosql-challenge)
 - **Skills:** Python, NoSQL
 
