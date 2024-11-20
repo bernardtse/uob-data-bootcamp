@@ -158,7 +158,7 @@ This assignment hub showcases the assignments I completed in the University of B
 ### tableau-challenge
 - **Overview:**
 
-  This challenge aims to develop a tableau workbook which contains a story with 5 interactive dashboards. The workbook compares ridership patterns in Jun 2023 and Dec 2023. The story is targeted at City officials, who may not necessarily have technical skills in data analytics. Therefore, the workbook is designed to be understood by non-technical readers.
+  The Citi Bike programme, the largest bike-sharing initiative in the United States, has been collecting and organising ridership data since 2013. This challenge focuses on developing a Tableau workbook that contains a story with five interactive dashboards to illustrate insights and patterns in Citi Bike ridership. The analysis compares data from June 2023 (summer) and December 2023 (winter) to answer key questions regarding riding patterns throughout the year. The workbook is designed for city officials, with a focus on non-technical readers, to easily understand and draw insights from the data.
 - **URL:** [https://github.com/bernardtse/tableau-challenge](https://github.com/bernardtse/tableau-challenge)
 - **Skills:** Tableau
 
