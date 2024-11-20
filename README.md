@@ -89,7 +89,12 @@ This assignment hub showcases the assignments I completed in the University of B
 ### python-challenge
 - **Overview:**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  This challenge involves creating two Python-based data analysis applications: **PyBank** and **PyPoll**. These apps simulate real-world scenarios where Python programming is used to replace Excel for advanced data analysis tasks.  
+
+  **PyBank** focuses on analysing financial records to extract key insights such as total profits, average changes, and identifying significant profit fluctuations.  
+
+  **PyPoll** is designed to modernise a rural town’s vote-counting process by determining election results, vote percentages, and identifying the winner through Python scripting.
+
 - **URL:** [https://github.com/bernardtse/python-challenge](https://github.com/bernardtse/python-challenge)
 - **Skills:** Python
 
