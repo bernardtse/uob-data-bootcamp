@@ -1,4 +1,4 @@
-2# University of Birmingham Data Analytics Bootcamp
+# University of Birmingham Data Analytics Bootcamp
 # Assignment Hub
 This assignment hub showcases the assignments I completed in the University of Birmingham Data Analytics Bootcamp (Oct 2023 cohort).
 
@@ -10,23 +10,23 @@ This assignment hub showcases the assignments I completed in the University of B
    - [Project 4 - Diabetes Prediction](#project-4---diabetes-prediction)
 
 2. [Challenges](#2-challenges)
-   - [excel-challenge](#excel-challenge)
-   - [VBA-challenge](#vba-challenge)
-   - [python-challenge](#python-challenge)
-   - [pandas-challenge](#pandas-challenge)
-   - [module5-challenge](#module5-challenge)
-   - [python-api-challenge](#python-api-challenge)
-   - [sql-challenge](#sql-challenge)
-   - [sqlalchemy-challenge](#sqlalchemy-challenge)
-   - [module11-challenge](#module11-challenge)
-   - [nosql-challenge](#nosql-challenge)
-   - [belly-button-challenge](#belly-button-challenge)
-   - [leaflet-challenge](#leaflet-challenge)
-   - [tableau-challenge](#tableau-challenge)
-   - [CryptoClustering](#cryptoclustering)
-   - [credit-risk-classification](#credit-risk-classification)
-   - [deep-learning-challenge](#deep-learning-challenge)
-   - [Home_Sales](#home_sales)
+   - [excel-challenge](#excel-challenge): Crowdfunding Data Analysis with Microsoft Excel
+   - [VBA-challenge](#vba-challenge): Stock Market Analysis with VBA
+   - [python-challenge](#python-challenge): Python Data Analysis Applications: PyBank and PyPoll
+   - [pandas-challenge](#pandas-challenge): PyCitySchools: School District Performance Analysis with Pandas
+   - [module5-challenge](#module5-challenge): Pymaceuticals: Data Visualisation and Statistical Analysis
+   - [python-api-challenge](#python-api-challenge): WeatherPy and VacationPy: API Data Retrieval and Visualisation
+   - [sql-challenge](#sql-challenge): EmployeeSQL Analysis and Database Setup
+   - [sqlalchemy-challenge](#sqlalchemy-challenge): SurfsUp: Climate Analysis and Flask API
+   - [module11-challenge](#module11-challenge): Mars News and Weather: Web Scraping and Data Analysis
+   - [nosql-challenge](#nosql-challenge): UK Food Hygiene Rating Analysis
+   - [belly-button-challenge](#belly-button-challenge): Belly Button Biodiversity Web Dashboard
+   - [leaflet-challenge](#leaflet-challenge): US Geological Survey Data Visualisation with Leaf.js
+   - [tableau-challenge](#tableau-challenge): Citi Bike Ridership Data Visualisation
+   - [CryptoClustering](#cryptoclustering): Cryptocurrency Price Change Prediction: Unsupervised Learning
+   - [credit-risk-classification](#credit-risk-classification): Loan Risk Prediction with Supervised Learning Models
+   - [deep-learning-challenge](#deep-learning-challenge): Charity Funding Predictions with Neural Network Models
+   - [Home_Sales](#home_sales): Home Sales Data Analysis with SparkSQL
 
 
 ## 1. Group Projects
@@ -73,6 +73,8 @@ This assignment hub showcases the assignments I completed in the University of B
 ## 2. Challenges
 
 ### excel-challenge
+Crowdfunding Data Analysis with Microsoft Excel
+
 - **Overview:**
 
   This repository contains an Excel file that features a series of analyses performed on crowdfunding campaign data. The data, obtained from a dataset of 1,000 sample projects, has been processed to uncover insights into market trends, campaign outcomes, and other related metrics. The aim of the project is to analyse various factors that determine the success or failure of crowdfunding campaigns.
@@ -83,6 +85,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Excel
 
 ### VBA-challenge
+Stock Market Analysis with VBA
+
 - **Overview:**
 
   This challenge focuses on analysing stock market data using VBA (Visual Basic for Applications) scripting in Excel. The task is to create a script that loops through quarterly stock data and calculates key metrics, including the ticker symbol, quarterly price changes, percentage change, total stock volume, and highlights the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. Additionally, the script applies conditional formatting to highlight positive and negative changes in stock prices, making the results visually clear and easy to interpret.
@@ -91,6 +95,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Excel, VBA
 
 ### python-challenge
+Python Data Analysis Applications: PyBank and PyPoll
+
 - **Overview:**
 
   This challenge involves creating two Python-based data analysis applications: **PyBank** and **PyPoll**. These apps simulate real-world scenarios where Python programming is used to replace Excel for advanced data analysis tasks.  
@@ -103,6 +109,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python
 
 ### pandas-challenge
+PyCitySchools: School District Performance Analysis with Pandas
+
 - **Overview:**
 
   In this challenge, the analysis of school and standardised test data for a city’s school district was performed. The goal was to extract key metrics about student performance, school spending, school size, and type. Using Pandas and Jupyter Notebook, various calculations and aggregations were made to generate insights, trends, and performance summaries for different schools within the district. Patterns such as the impact of school size and spending on student performance were revealed, providing valuable information for strategic decisions regarding future school budgets and priorities. The project involved creating multiple dataframes to showcase performance across several dimensions, including district-wide averages, school-specific summaries, and performance rankings.
@@ -111,6 +119,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, Pandas
 
 ### module5-challenge
+Pymaceuticals: Data Visualisation and Statistical Analysis
+
 - **Overview:**
 
   This challenge focuses on analysing preclinical study data from Pymaceuticals, Inc., a pharmaceutical company researching treatments for squamous cell carcinoma (SCC), a common form of skin cancer. The study involved 249 mice treated with various drug regimens over 45 days, with tumour development observed and recorded. The goal was to compare the effectiveness of the company’s drug of interest, Capomulin, against other treatments.  
@@ -121,6 +131,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
 
 ### python-api-challenge
+WeatherPy and VacationPy: API Data Retrieval and Visualisation
+
 - **Overview:**
 
   This challenge explores global weather patterns and demonstrates how weather data can guide vacation planning. Using Python, the analysis examines the relationship between latitude and weather variables like temperature, humidity, cloudiness, and wind speed. Skills applied include data retrieval through APIs (OpenWeatherMap and Geoapify), data cleaning and manipulation using pandas, and statistical analysis with linear regression. The results are visualised through scatter plots, regression charts, and interactive maps created with matplotlib and hvplot. This challenge highlights the use of programming, API integration, and data visualisation to extract meaningful insights from real-world weather data.
@@ -129,6 +141,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, JSON
 
 ### sql-challenge
+EmployeeSQL Analysis and Database Setup
+
 - **Overview:**
 
   This project focuses on analysing historical employee data for Pewlett Hackard, a fictional company, using PostgreSQL. The primary objectives include designing an Entity Relationship Diagram (ERD), creating a database schema, importing CSV data, and running SQL queries to answer key analytical questions. The dataset represents employees, their departments, titles, salaries, and managerial roles during the 1980s and 1990s.
@@ -137,6 +151,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** PostgreSQL
 
 ### sqlalchemy-challenge
+SurfsUp: Climate Analysis and Flask API
+
 - **Overview:**
 
   This challenge analyses climate data for Honolulu, Hawaii, to aid in planning a holiday trip. It uses Python, SQLAlchemy, Pandas, Matplotlib, and Flask to explore historical weather data, perform precipitation and station analyses, and provide a Flask API for dynamic data retrieval. The analysis includes precipitation trends, station activities, and temperature observations, alongside API endpoints for data access.
@@ -145,6 +161,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, SQLAlchemy, SQLite, Flask
 
 ### module11-challenge
+Mars News and Weather: Web Scraping and Data Analysis
+
 - **Overview:**
 
   This challenge involves scraping and analysing data related to Mars using web scraping techniques. Part 1 focuses on scraping news articles from NASA's Mars News website to extract titles and previews of the latest articles. Part 2 involves scraping and analysing weather data from the Mars Temperature Data Site, which includes insights about temperature and atmospheric pressure. The results are designed to be insightful and visually accessible.
@@ -153,6 +171,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, Beautiful Soup (web scraping)
 
 ### nosql-challenge
+UK Food Hygiene Rating Analysis
+
 - **Overview:**
 
   The UK Food Standards Agency assesses food hygiene ratings for establishments across the United Kingdom. This project analyses data from the agency to help journalists at *Eat Safe, Love* identify key insights for articles. The analysis is carried out using MongoDB and Jupyter Notebooks, focusing on data manipulation, updates, and exploratory queries.
@@ -161,6 +181,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, NoSQL
 
 ### belly-button-challenge
+Belly Button Biodiversity Web Dashboard
+
 - **Overview:**
 
   The Belly Button Biodiversity Dashboard is an interactive visualisation tool designed to explore the Belly Button Biodiversity dataset. This dataset catalogues the microbes that colonise human navels. The study reveals that a small number of microbial species, known as operational taxonomic units (OTUs), are present in over 70% of individuals. However, the majority of species are relatively rare. 
@@ -171,6 +193,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
 
 ### leaflet-challenge
+US Geological Survey Data Visualisation with Leaflet.js
+
 - **Overview:**
 
   The United States Geological Survey (USGS), is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. This challenge aims to visualise USGS data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
@@ -179,6 +203,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** HTML, CSS, Javascript, Leaflet.js
 
 ### tableau-challenge
+Citi Bike Ridership Data Visualisation
+
 - **Overview:**
 
   The Citi Bike programme, the largest bike-sharing initiative in the United States, has been collecting and organising ridership data since 2013. This challenge focuses on developing a Tableau workbook that contains a story with five interactive dashboards to illustrate insights and patterns in Citi Bike ridership. The analysis compares data from June 2023 (summer) and December 2023 (winter) to answer key questions regarding riding patterns throughout the year. The workbook is designed for city officials, with a focus on non-technical readers, to easily understand and draw insights from the data.
@@ -187,6 +213,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Tableau
 
 ### CryptoClustering
+Cryptocurrency Price Change Prediction: Unsupervised Learning
+
 - **Overview:**
 
   This challenge focuses on predicting whether cryptocurrencies are influenced by 24-hour or 7-day price changes using Python and unsupervised learning. The prediction process is conducted twice: first, using the original data, and second, using Principal Components Analysis (PCA) data. The results are then compared to determine the optimal approach for unsupervised learning.
@@ -195,14 +223,18 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, Scikit-learn (unsupervised learning)
 
 ### credit-risk-classification
+Loan Risk Prediction with Supervised Learning Models
+
 - **Overview:**
 
-  This challenge uses various techniques to train and evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company is used to build a model that can identify the creditworthiness of borrowers.
+  This challenge uses various techniques to train and evaluate a supervised machine learning model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company is used to build a model that can identify the creditworthiness of borrowers.
   
 - **URL:** [https://github.com/bernardtse/credit-risk-classification](https://github.com/bernardtse/credit-risk-classification)
 - **Skills:** Python, Scikit-learn (supervised learning)
 
 ### deep-learning-challenge
+Charity Funding Predictions with Neural Network Models
+
 - **Overview:**
 
   The non-profit foundation Alphabet Soup requires a tool to select funding applicants with the highest chance of success in their ventures. Using machine learning and neural networks, this challenge involves creating a binary classifier to predict whether applicants funded by Alphabet Soup will be successful.
@@ -211,6 +243,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, TensorFlow
 
 ### Home_Sales
+Home Sales Data Analysis with SparkSQL
+
 - **Overview:**
 
   This challenge uses SparkSQL to determine key metrics about home sales data. Spark will be used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
