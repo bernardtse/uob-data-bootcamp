@@ -28,6 +28,7 @@ This assignment hub showcases the assignments I completed in the University of B
    - [deep-learning-challenge](#deep-learning-challenge): Charity Funding Predictions with Neural Network Models
    - [Home_Sales](#home_sales): Home Sales Data Analysis with SparkSQL
 
+---
 
 ## 1. Group Projects
 
@@ -41,6 +42,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, Pandas, Matplotlib, JSON
 - **Collaborators:** [Catarina Ferreira](https://github.com/catisf), [Daniel Hughes](https://github.com/DanielHughes1580), [Kehlani Jaan Khan](https://github.com/kehlanijaan), [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
 
+---
+
 ### Project 2 - Crowdfunding ETL
 - **Overview:**
 
@@ -49,6 +52,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **URL:** [https://github.com/bernardtse/Crowdfunding_ETL](https://github.com/bernardtse/Crowdfunding_ETL)
 - **Skills:** Python, PostgreSQL, data ETL (extract, load, transform)
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Safa Ali](https://github.com/Safa297)
+
+---
 
 ### Project 3 - Garmin Data Engineering
 - **Overview:**
@@ -60,6 +65,8 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, SQLite, Flask, HTML, CSS, Javascript, Bootstrap, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Mohammed Nawaz](https://github.com/MoNawaz101), [Nida Ballinger-Chaudhary](https://github.com/NidaB-C)
 
+---
+
 ### Project 4 - Diabetes Prediction
 - **Overview:**
 
@@ -69,6 +76,7 @@ This assignment hub showcases the assignments I completed in the University of B
 - **Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, Javascript, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Godswill Anyasor](https://github.com/AnyasorG), [Kehlani Jaan Khan](https://github.com/kehlanijaan)
 
+---
 
 ## 2. Challenges
 
@@ -84,6 +92,8 @@ Crowdfunding Data Analysis with Microsoft Excel
 - **URL:** [https://github.com/bernardtse/excel-challenge](https://github.com/bernardtse/excel-challenge)
 - **Skills:** Excel
 
+---
+
 ### VBA-challenge
 Stock Market Analysis with VBA
 
@@ -93,6 +103,8 @@ Stock Market Analysis with VBA
 
 - **URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
 - **Skills:** Excel, VBA
+
+---
 
 ### python-challenge
 Python Data Analysis Applications: PyBank and PyPoll
@@ -108,6 +120,8 @@ Python Data Analysis Applications: PyBank and PyPoll
 - **URL:** [https://github.com/bernardtse/python-challenge](https://github.com/bernardtse/python-challenge)
 - **Skills:** Python
 
+---
+
 ### pandas-challenge
 PyCitySchools: School District Performance Analysis with Pandas
 
@@ -117,6 +131,8 @@ PyCitySchools: School District Performance Analysis with Pandas
   
 - **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 - **Skills:** Python, Pandas
+
+---
 
 ### module5-challenge
 Pymaceuticals: Data Visualisation and Statistical Analysis
@@ -130,6 +146,8 @@ Pymaceuticals: Data Visualisation and Statistical Analysis
 - **URL:** [https://github.com/bernardtse/module5-challenge](https://github.com/bernardtse/module5-challenge)
 - **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
 
+---
+
 ### python-api-challenge
 WeatherPy and VacationPy: API Data Retrieval and Visualisation
 
@@ -139,6 +157,8 @@ WeatherPy and VacationPy: API Data Retrieval and Visualisation
   
 - **URL:** [https://github.com/bernardtse/python-api-challenge](https://github.com/bernardtse/python-api-challenge)
 - **Skills:** Python, JSON
+
+---
 
 ### sql-challenge
 EmployeeSQL Analysis and Database Setup
@@ -150,6 +170,8 @@ EmployeeSQL Analysis and Database Setup
 - **URL:** [https://github.com/bernardtse/sql-challenge](https://github.com/bernardtse/sql-challenge)
 - **Skills:** PostgreSQL
 
+---
+
 ### sqlalchemy-challenge
 SurfsUp: Climate Analysis and Flask API
 
@@ -159,6 +181,8 @@ SurfsUp: Climate Analysis and Flask API
   
 - **URL:** [https://github.com/bernardtse/sqlalchemy-challenge](https://github.com/bernardtse/sqlalchemy-challenge)
 - **Skills:** Python, SQLAlchemy, SQLite, Flask
+
+---
 
 ### module11-challenge
 Mars News and Weather: Web Scraping and Data Analysis
@@ -170,6 +194,8 @@ Mars News and Weather: Web Scraping and Data Analysis
 - **URL:** [https://github.com/bernardtse/module11-challenge](https://github.com/bernardtse/module11-challenge)
 - **Skills:** Python, Beautiful Soup (web scraping)
 
+---
+
 ### nosql-challenge
 UK Food Hygiene Rating Analysis
 
@@ -179,6 +205,8 @@ UK Food Hygiene Rating Analysis
   
 - **URL:** [https://github.com/bernardtse/nosql-challenge](https://github.com/bernardtse/nosql-challenge)
 - **Skills:** Python, NoSQL
+
+---
 
 ### belly-button-challenge
 Belly Button Biodiversity Web Dashboard
@@ -192,6 +220,8 @@ Belly Button Biodiversity Web Dashboard
 - **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
 - **Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
 
+---
+
 ### leaflet-challenge
 US Geological Survey Data Visualisation with Leaflet.js
 
@@ -201,6 +231,8 @@ US Geological Survey Data Visualisation with Leaflet.js
   
 - **URL:** [https://github.com/bernardtse/leaflet-challenge](https://github.com/bernardtse/leaflet-challenge)
 - **Skills:** HTML, CSS, Javascript, Leaflet.js
+
+---
 
 ### tableau-challenge
 Citi Bike Ridership Data Visualisation
@@ -212,6 +244,8 @@ Citi Bike Ridership Data Visualisation
 - **URL:** [https://github.com/bernardtse/tableau-challenge](https://github.com/bernardtse/tableau-challenge)
 - **Skills:** Tableau
 
+---
+
 ### CryptoClustering
 Cryptocurrency Price Change Prediction: Unsupervised Learning
 
@@ -221,6 +255,8 @@ Cryptocurrency Price Change Prediction: Unsupervised Learning
   
 - **URL:** [https://github.com/bernardtse/CryptoClustering](https://github.com/bernardtse/CryptoClustering)
 - **Skills:** Python, Scikit-learn (unsupervised learning)
+
+---
 
 ### credit-risk-classification
 Loan Risk Prediction with Supervised Learning Models
@@ -232,6 +268,8 @@ Loan Risk Prediction with Supervised Learning Models
 - **URL:** [https://github.com/bernardtse/credit-risk-classification](https://github.com/bernardtse/credit-risk-classification)
 - **Skills:** Python, Scikit-learn (supervised learning)
 
+---
+
 ### deep-learning-challenge
 Charity Funding Predictions with Neural Network Models
 
@@ -241,6 +279,8 @@ Charity Funding Predictions with Neural Network Models
   
 - **URL:** [https://github.com/bernardtse/deep-learning-challenge](https://github.com/bernardtse/deep-learning-challenge)
 - **Skills:** Python, TensorFlow
+
+---
 
 ### Home_Sales
 Home Sales Data Analysis with SparkSQL
