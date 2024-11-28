@@ -230,9 +230,9 @@ UK Food Hygiene Rating Analysis
   The UK Food Standards Agency assesses food hygiene ratings for establishments across the United Kingdom. This project analyses data from the agency to help journalists at *Eat Safe, Love* identify key insights for articles. The analysis is carried out using MongoDB and Jupyter Notebooks, focusing on data manipulation, updates, and exploratory queries.
   
 - **URL:** [https://github.com/bernardtse/nosql-challenge](https://github.com/bernardtse/nosql-challenge)
-- **Skills:** Python, NoSQL
+- **Skills:** Python, NoSQL (MongoDB)
 
-![nosql-challenge](images/repos/12_nosql/)
+![nosql-challenge](images/repos/12_nosql/query.png)
 
 ---
 
