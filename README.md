@@ -42,7 +42,7 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **Skills:** Python, Pandas, Matplotlib, JSON, EDA (exploratory data analysis)
 - **Collaborators:** [Catarina Ferreira](https://github.com/catisf), [Daniel Hughes](https://github.com/DanielHughes1580), [Kehlani Jaan Khan](https://github.com/kehlanijaan), [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
 
-![Project 1 - Exploratory Data Analysis: Music Listening Habits on Spotify](images/repos/08_spotifyeda/)
+![Project 1 - Exploratory Data Analysis: Music Listening Habits on Spotify](images/repos/08_spotifyeda/features.png)
 
 ---
 
@@ -55,7 +55,7 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **Skills:** Python, PostgreSQL, data ETL (extract, load, transform)
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Safa Ali](https://github.com/Safa297)
 
-![Project 2 - Crowdfunding ETL](images/repos/13_crowdfundingetl/)
+![Project 2 - Crowdfunding ETL](images/repos/13_crowdfundingetl/erd.png)
 
 ---
 
