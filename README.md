@@ -39,7 +39,7 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
   
 - **Original Repository:** [https://github.com/catisf/Project-1-Group-2](https://github.com/catisf/Project-1-Group-2)
 - **Fork:** [https://github.com/bernardtse/music-listening-habits-eda](https://github.com/bernardtse/music-listening-habits-eda)
-- **Skills:** Python, Pandas, Matplotlib, JSON
+- **Skills:** Python, Pandas, Matplotlib, JSON, EDA (exploratory data analysis)
 - **Collaborators:** [Catarina Ferreira](https://github.com/catisf), [Daniel Hughes](https://github.com/DanielHughes1580), [Kehlani Jaan Khan](https://github.com/kehlanijaan), [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
 
 ---
@@ -92,6 +92,8 @@ Crowdfunding Data Analysis with Microsoft Excel
 - **URL:** [https://github.com/bernardtse/excel-challenge](https://github.com/bernardtse/excel-challenge)
 - **Skills:** Excel
 
+![excel-challenge](images/projects/01_excel/pivot_table.png)
+
 ---
 
 ### VBA-challenge
@@ -104,6 +106,7 @@ Stock Market Analysis with VBA
 - **URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
 - **Skills:** Excel, VBA
 
+![VBA-challenge](images/projects/02_vba/code_screenshot.png)
 ---
 
 ### python-challenge
