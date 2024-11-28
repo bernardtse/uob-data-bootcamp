@@ -248,7 +248,7 @@ Belly Button Biodiversity Web Dashboard
 - **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
 - **Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
 
-![belly-button-challenge](images/repos/14_webvisualisation/)
+![belly-button-challenge](images/repos/14_webvisualisation/webviz_screenshot.png)
 
 ---
 
@@ -262,7 +262,7 @@ US Geological Survey Data Visualisation with Leaflet.js
 - **URL:** [https://github.com/bernardtse/leaflet-challenge](https://github.com/bernardtse/leaflet-challenge)
 - **Skills:** HTML, CSS, Javascript, Leaflet.js
 
-![leaflet-challenge](images/repos/15_leaflet/)
+![leaflet-challenge](images/repos/15_leaflet/leaflet_part2.png)
 
 ---
 
@@ -276,7 +276,7 @@ Citi Bike Ridership Data Visualisation
 - **URL:** [https://github.com/bernardtse/tableau-challenge](https://github.com/bernardtse/tableau-challenge)
 - **Skills:** Tableau
 
-![tableau-challenge](images/repos/18_tableau/)
+![tableau-challenge](images/repos/18_tableau/tableau_screenshot.png)
 
 ---
 
