@@ -107,6 +107,7 @@ Stock Market Analysis with VBA
 - **Skills:** Excel, VBA
 
 ![VBA-challenge](images/projects/02_vba/code_screenshot.png)
+
 ---
 
 ### python-challenge
@@ -137,6 +138,8 @@ PyCitySchools: School District Performance Analysis with Pandas
 - **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 - **Skills:** Python, Pandas
 
+![PyCitySchools](images/projects/04_pandas/pycityschools_screenshot.png)
+
 ---
 
 ### module5-challenge
@@ -150,6 +153,8 @@ Pymaceuticals: Data Visualisation and Statistical Analysis
 
 - **URL:** [https://github.com/bernardtse/module5-challenge](https://github.com/bernardtse/module5-challenge)
 - **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
+
+![Linear Regression](images/projects/05_matplotlib/linear_regression.png)
 
 ---
 
