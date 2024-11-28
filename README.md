@@ -123,6 +123,8 @@ Python Data Analysis Applications: PyBank and PyPoll
 - **URL:** [https://github.com/bernardtse/python-challenge](https://github.com/bernardtse/python-challenge)
 - **Skills:** Python
 
+![PyPoll](images/projects/03_python/pypoll_screenshot.png)
+
 ---
 
 ### pandas-challenge
