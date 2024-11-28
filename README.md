@@ -190,7 +190,7 @@ EmployeeSQL Analysis and Database Setup
 - **URL:** [https://github.com/bernardtse/sql-challenge](https://github.com/bernardtse/sql-challenge)
 - **Skills:** PostgreSQL
 
-![sql-challenge](images/repos/09_sql/pgadmin1.png)
+![sql-challenge](images/repos/09_sql/pgadmin2.png)
 
 ---
 
@@ -204,7 +204,7 @@ SurfsUp: Climate Analysis and Flask API
 - **URL:** [https://github.com/bernardtse/sqlalchemy-challenge](https://github.com/bernardtse/sqlalchemy-challenge)
 - **Skills:** Python, SQLAlchemy, SQLite, Pandas, Matplotlib, Flask
 
-![sqlalchemy-challenge](images/repos/10_sqlalchemy/)
+![sqlalchemy-challenge](images/repos/10_sqlalchemy/sqlalchemy.png)
 
 ---
 
@@ -218,7 +218,7 @@ Mars News and Weather: Web Scraping and Data Analysis
 - **URL:** [https://github.com/bernardtse/module11-challenge](https://github.com/bernardtse/module11-challenge)
 - **Skills:** Python, Beautiful Soup (web scraping)
 
-![module11-challenge](images/repos/11_webscraping/)
+![module11-challenge](images/repos/11_webscraping/webscraping.png)
 
 ---
 
