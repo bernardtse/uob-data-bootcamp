@@ -42,6 +42,8 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **Skills:** Python, Pandas, Matplotlib, JSON, EDA (exploratory data analysis)
 - **Collaborators:** [Catarina Ferreira](https://github.com/catisf), [Daniel Hughes](https://github.com/DanielHughes1580), [Kehlani Jaan Khan](https://github.com/kehlanijaan), [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
 
+![Project 1 - Exploratory Data Analysis: Music Listening Habits on Spotify](images/repos/08_spotifyeda/)
+
 ---
 
 ### Project 2 - Crowdfunding ETL
@@ -52,6 +54,8 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **URL:** [https://github.com/bernardtse/Crowdfunding_ETL](https://github.com/bernardtse/Crowdfunding_ETL)
 - **Skills:** Python, PostgreSQL, data ETL (extract, load, transform)
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Safa Ali](https://github.com/Safa297)
+
+![Project 2 - Crowdfunding ETL](images/repos/13_crowdfundingetl/)
 
 ---
 
@@ -65,6 +69,8 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **Skills:** Python, SQLite, Flask, HTML, CSS, Javascript, Bootstrap, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Mohammed Nawaz](https://github.com/MoNawaz101), [Nida Ballinger-Chaudhary](https://github.com/NidaB-C)
 
+![Project 3 - Garmin Data Engineering](images/repos/17_garmin/)
+
 ---
 
 ### Project 4 - Diabetes Prediction
@@ -75,6 +81,8 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **URL:** [https://github.com/bernardtse/diabetes_prediction](https://github.com/bernardtse/diabetes_prediction)
 - **Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, Javascript, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Godswill Anyasor](https://github.com/AnyasorG), [Kehlani Jaan Khan](https://github.com/kehlanijaan)
+
+![Project 4 - Diabetes Prediction](images/repos/24_diabetes/)
 
 ---
 
@@ -92,7 +100,7 @@ Crowdfunding Data Analysis with Microsoft Excel
 - **URL:** [https://github.com/bernardtse/excel-challenge](https://github.com/bernardtse/excel-challenge)
 - **Skills:** Excel
 
-![excel-challenge](images/projects/01_excel/pivot_table.png)
+![excel-challenge](images/repos/01_excel/pivot_table.png)
 
 ---
 
@@ -106,7 +114,7 @@ Stock Market Analysis with VBA
 - **URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
 - **Skills:** Excel, VBA
 
-![VBA-challenge](images/projects/02_vba/code_screenshot.png)
+![VBA-challenge](images/repos/02_vba/code_screenshot.png)
 
 ---
 
@@ -124,7 +132,7 @@ Python Data Analysis Applications: PyBank and PyPoll
 - **URL:** [https://github.com/bernardtse/python-challenge](https://github.com/bernardtse/python-challenge)
 - **Skills:** Python
 
-![PyPoll](images/projects/03_python/pypoll_screenshot.png)
+![python-challenge](images/repos/03_python/pypoll_screenshot.png)
 
 ---
 
@@ -138,7 +146,7 @@ PyCitySchools: School District Performance Analysis with Pandas
 - **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 - **Skills:** Python, Pandas
 
-![PyCitySchools](images/projects/04_pandas/pycityschools_screenshot.png)
+![pandas-challenge](images/repos/04_pandas/pycityschools_screenshot.png)
 
 ---
 
@@ -154,7 +162,7 @@ Pymaceuticals: Data Visualisation and Statistical Analysis
 - **URL:** [https://github.com/bernardtse/module5-challenge](https://github.com/bernardtse/module5-challenge)
 - **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
 
-![Linear Regression](images/projects/05_matplotlib/linear_regression.png)
+![module5-challenge](images/repos/05_matplotlib/linear_regression.png)
 
 ---
 
@@ -163,10 +171,12 @@ WeatherPy and VacationPy: API Data Retrieval and Visualisation
 
 - **Overview:**
 
-  This challenge explores global weather patterns and demonstrates how weather data can guide vacation planning. Using Python, the analysis examines the relationship between latitude and weather variables like temperature, humidity, cloudiness, and wind speed. Skills applied include data retrieval through APIs (OpenWeatherMap and Geoapify), data cleaning and manipulation using pandas, and statistical analysis with linear regression. The results are visualised through scatter plots, regression charts, and interactive maps created with matplotlib and hvplot. This challenge highlights the use of programming, API integration, and data visualisation to extract meaningful insights from real-world weather data.
+  This challenge explores global weather patterns and demonstrates how weather data can guide vacation planning. Using Python, the analysis examines the relationship between latitude and weather variables like temperature, humidity, cloudiness, and wind speed. Skills applied include data retrieval through APIs (OpenWeatherMap and Geoapify), data cleaning and manipulation using pandas, and statistical analysis with linear regression. The results are visualised through scatter plots, regression charts, and interactive maps created with Matplotlib and hvPlot. This challenge highlights the use of programming, API integration, and data visualisation to extract meaningful insights from real-world weather data.
   
 - **URL:** [https://github.com/bernardtse/python-api-challenge](https://github.com/bernardtse/python-api-challenge)
-- **Skills:** Python, JSON
+- **Skills:** Python, JSON, Pandas, MatPlotlib, hvPlot
+
+![python-api-challenge](images/repos/06_pythonapi/hvplot.png)
 
 ---
 
@@ -180,6 +190,8 @@ EmployeeSQL Analysis and Database Setup
 - **URL:** [https://github.com/bernardtse/sql-challenge](https://github.com/bernardtse/sql-challenge)
 - **Skills:** PostgreSQL
 
+![sql-challenge](images/repos/09_sql/pgadmin1.png)
+
 ---
 
 ### sqlalchemy-challenge
@@ -190,7 +202,9 @@ SurfsUp: Climate Analysis and Flask API
   This challenge analyses climate data for Honolulu, Hawaii, to aid in planning a holiday trip. It uses Python, SQLAlchemy, Pandas, Matplotlib, and Flask to explore historical weather data, perform precipitation and station analyses, and provide a Flask API for dynamic data retrieval. The analysis includes precipitation trends, station activities, and temperature observations, alongside API endpoints for data access.
   
 - **URL:** [https://github.com/bernardtse/sqlalchemy-challenge](https://github.com/bernardtse/sqlalchemy-challenge)
-- **Skills:** Python, SQLAlchemy, SQLite, Flask
+- **Skills:** Python, SQLAlchemy, SQLite, Pandas, Matplotlib, Flask
+
+![sqlalchemy-challenge](images/repos/10_sqlalchemy/)
 
 ---
 
@@ -204,6 +218,8 @@ Mars News and Weather: Web Scraping and Data Analysis
 - **URL:** [https://github.com/bernardtse/module11-challenge](https://github.com/bernardtse/module11-challenge)
 - **Skills:** Python, Beautiful Soup (web scraping)
 
+![module11-challenge](images/repos/11_webscraping/)
+
 ---
 
 ### nosql-challenge
@@ -215,6 +231,8 @@ UK Food Hygiene Rating Analysis
   
 - **URL:** [https://github.com/bernardtse/nosql-challenge](https://github.com/bernardtse/nosql-challenge)
 - **Skills:** Python, NoSQL
+
+![nosql-challenge](images/repos/12_nosql/)
 
 ---
 
@@ -230,6 +248,8 @@ Belly Button Biodiversity Web Dashboard
 - **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
 - **Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
 
+![belly-button-challenge](images/repos/14_webvisualisation/)
+
 ---
 
 ### leaflet-challenge
@@ -241,6 +261,8 @@ US Geological Survey Data Visualisation with Leaflet.js
   
 - **URL:** [https://github.com/bernardtse/leaflet-challenge](https://github.com/bernardtse/leaflet-challenge)
 - **Skills:** HTML, CSS, Javascript, Leaflet.js
+
+![leaflet-challenge](images/repos/15_leaflet/)
 
 ---
 
@@ -254,6 +276,8 @@ Citi Bike Ridership Data Visualisation
 - **URL:** [https://github.com/bernardtse/tableau-challenge](https://github.com/bernardtse/tableau-challenge)
 - **Skills:** Tableau
 
+![tableau-challenge](images/repos/18_tableau/)
+
 ---
 
 ### CryptoClustering
@@ -265,6 +289,8 @@ Cryptocurrency Price Change Prediction: Unsupervised Learning
   
 - **URL:** [https://github.com/bernardtse/CryptoClustering](https://github.com/bernardtse/CryptoClustering)
 - **Skills:** Python, Scikit-learn (unsupervised learning)
+
+![CryptoClustering](images/repos/19_unsupervisedlearning/)
 
 ---
 
@@ -278,6 +304,8 @@ Loan Risk Prediction with Supervised Learning Models
 - **URL:** [https://github.com/bernardtse/credit-risk-classification](https://github.com/bernardtse/credit-risk-classification)
 - **Skills:** Python, Scikit-learn (supervised learning)
 
+![credit-risk-classification](images/repos/20_supervisedlearning/)
+
 ---
 
 ### deep-learning-challenge
@@ -290,10 +318,14 @@ Charity Funding Predictions with Neural Network Models
 - **URL:** [https://github.com/bernardtse/deep-learning-challenge](https://github.com/bernardtse/deep-learning-challenge)
 - **Skills:** Python, TensorFlow
 
+![deep-learning-challenge](images/repos/21_neuralnetwork/)
+
 ---
 
 ### Home_Sales
 Home Sales Data Analysis with SparkSQL
+
+![Home_Sales](images/repos/22_bigdata/)
 
 - **Overview:**
 
