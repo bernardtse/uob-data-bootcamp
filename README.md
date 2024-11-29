@@ -318,14 +318,12 @@ Charity Funding Predictions with Neural Network Models
 - **URL:** [https://github.com/bernardtse/deep-learning-challenge](https://github.com/bernardtse/deep-learning-challenge)
 - **Skills:** Python, TensorFlow
 
-![deep-learning-challenge](images/repos/21_neuralnetwork/)
+![deep-learning-challenge](images/repos/21_neuralnetwork/colab.png)
 
 ---
 
 ### Home_Sales
 Home Sales Data Analysis with SparkSQL
-
-![Home_Sales](images/repos/22_bigdata/)
 
 - **Overview:**
 
@@ -333,3 +331,5 @@ Home Sales Data Analysis with SparkSQL
   
 - **URL:** [https://github.com/bernardtse/Home_Sales](https://github.com/bernardtse/Home_Sales)
 - **Skills:** Python, PySpark
+
+![Home_Sales](images/repos/22_bigdata/query.png)
