@@ -290,7 +290,7 @@ Cryptocurrency Price Change Prediction: Unsupervised Learning
 - **URL:** [https://github.com/bernardtse/CryptoClustering](https://github.com/bernardtse/CryptoClustering)
 - **Skills:** Python, Scikit-learn (unsupervised learning)
 
-![CryptoClustering](images/repos/19_unsupervisedlearning/)
+![CryptoClustering](images/repos/19_unsupervisedlearning/cluster_plot.png)
 
 ---
 
@@ -304,7 +304,7 @@ Loan Risk Prediction with Supervised Learning Models
 - **URL:** [https://github.com/bernardtse/credit-risk-classification](https://github.com/bernardtse/credit-risk-classification)
 - **Skills:** Python, Scikit-learn (supervised learning)
 
-![credit-risk-classification](images/repos/20_supervisedlearning/)
+![credit-risk-classification](images/repos/20_supervisedlearning/evaluation.png)
 
 ---
 
