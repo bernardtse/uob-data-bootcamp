@@ -66,10 +66,10 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
   
 - **Original Repository:** [https://github.com/NidaB-C/garmin-data-engineering](https://github.com/NidaB-C/garmin-data-engineering)
 - **Fork:** [https://github.com/bernardtse/garmin-data-engineering](https://github.com/bernardtse/garmin-data-engineering)
-- **Skills:** Python, SQLite, Flask, HTML, CSS, Javascript, Bootstrap, data ETL
+- **Skills:** Python, SQLite, Flask, HTML, CSS, Javascript, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Mohammed Nawaz](https://github.com/MoNawaz101), [Nida Ballinger-Chaudhary](https://github.com/NidaB-C)
 
-![Project 3 - Garmin Data Engineering](images/repos/17_garmin/)
+![Project 3 - Garmin Data Engineering](images/repos/17_garmin/api.png)
 
 ---
 
@@ -82,7 +82,7 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
 - **Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, Javascript, data ETL
 - **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Godswill Anyasor](https://github.com/AnyasorG), [Kehlani Jaan Khan](https://github.com/kehlanijaan)
 
-![Project 4 - Diabetes Prediction](images/repos/24_diabetes/)
+![Project 4 - Diabetes Prediction](images/repos/24_diabetes/diabpredict.png)
 
 ---
 
