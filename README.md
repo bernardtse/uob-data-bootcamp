@@ -114,7 +114,7 @@ Stock Market Analysis with VBA
 - **URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
 - **Skills:** Excel, VBA
 
-![VBA-challenge](images/repos/02_vba/code_screenshot.png)
+![VBA-challenge](images/repos/02_vba/macro.png)
 
 ---
 
