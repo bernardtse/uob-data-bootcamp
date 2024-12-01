@@ -10,23 +10,23 @@ This Assignment Hub showcases the coursework from the University of Birmingham D
    - [Project 4 - Diabetes Prediction](#project-4---diabetes-prediction)
 
 2. [Challenges](#2-challenges)
-   - [excel-challenge](#excel-challenge): Crowdfunding Data Analysis with Microsoft Excel
-   - [VBA-challenge](#vba-challenge): Stock Market Analysis with VBA
-   - [python-challenge](#python-challenge): Python Data Analysis Applications: PyBank and PyPoll
-   - [pandas-challenge](#pandas-challenge): PyCitySchools: School District Performance Analysis with Pandas
-   - [module5-challenge](#module5-challenge): Pymaceuticals: Data Visualisation and Statistical Analysis
-   - [python-api-challenge](#python-api-challenge): WeatherPy and VacationPy: API Data Retrieval and Visualisation
-   - [sql-challenge](#sql-challenge): EmployeeSQL Analysis and Database Setup
-   - [sqlalchemy-challenge](#sqlalchemy-challenge): SurfsUp: Climate Analysis and Flask API
-   - [module11-challenge](#module11-challenge): Mars News and Weather: Web Scraping and Data Analysis
-   - [nosql-challenge](#nosql-challenge): UK Food Hygiene Rating Analysis
-   - [belly-button-challenge](#belly-button-challenge): Belly Button Biodiversity Web Dashboard
-   - [leaflet-challenge](#leaflet-challenge): US Geological Survey Data Visualisation with Leaf.js
-   - [tableau-challenge](#tableau-challenge): Citi Bike Ridership Data Visualisation
-   - [CryptoClustering](#cryptoclustering): Cryptocurrency Price Change Prediction: Unsupervised Learning
-   - [credit-risk-classification](#credit-risk-classification): Loan Risk Prediction with Supervised Learning Models
-   - [deep-learning-challenge](#deep-learning-challenge): Charity Funding Predictions with Neural Network Models
-   - [Home_Sales](#home_sales): Home Sales Data Analysis with SparkSQL
+   - [excel-challenge](#excel-challenge) - Crowdfunding Data Analysis with Microsoft Excel
+   - [VBA-challenge](#vba-challenge) - Stock Market Analysis with VBA
+   - [python-challenge](#python-challenge) - Python Data Analysis Applications: PyBank and PyPoll
+   - [pandas-challenge](#pandas-challenge) - PyCitySchools: School District Performance Analysis with Pandas
+   - [module5-challenge](#module5-challenge) - Pymaceuticals: Data Visualisation and Statistical Analysis
+   - [python-api-challenge](#python-api-challenge) - WeatherPy and VacationPy: API Data Retrieval and Visualisation
+   - [sql-challenge](#sql-challenge) - EmployeeSQL Analysis and Database Setup
+   - [sqlalchemy-challenge](#sqlalchemy-challenge) - SurfsUp: Climate Analysis and Flask API
+   - [module11-challenge](#module11-challenge) - Mars News and Weather: Web Scraping and Data Analysis
+   - [nosql-challenge](#nosql-challenge) - UK Food Hygiene Rating Analysis
+   - [belly-button-challenge](#belly-button-challenge) - Belly Button Biodiversity Web Dashboard
+   - [leaflet-challenge](#leaflet-challenge) - US Geological Survey Data Visualisation with Leaf.js
+   - [tableau-challenge](#tableau-challenge) - Citi Bike Ridership Data Visualisation
+   - [CryptoClustering](#cryptoclustering) - Cryptocurrency Price Change Prediction: Unsupervised Learning
+   - [credit-risk-classification](#credit-risk-classification) - Loan Risk Prediction with Supervised Learning Models
+   - [deep-learning-challenge](#deep-learning-challenge) - Charity Funding Predictions with Neural Network Models
+   - [Home_Sales](#home_sales) - Home Sales Data Analysis with SparkSQL
 
 ---
 
