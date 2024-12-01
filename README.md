@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # University of Birmingham Data Analytics Bootcamp
 # Assignment Hub
 This Assignment Hub showcases the coursework from the University of Birmingham Data Analytics Bootcamp (Oct 2023 cohort).
