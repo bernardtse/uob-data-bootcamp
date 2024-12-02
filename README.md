@@ -1,6 +1,17 @@
 # University of Birmingham Data Analytics Bootcamp
 # Assignment Hub
-This Assignment Hub showcases the coursework from the University of Birmingham Data Analytics Bootcamp (Oct 2023 cohort).
+
+Welcome to the Assignment Hub, a comprehensive portfolio of work completed during the University Birmingham ’s Data Analytics Bootcamp. This repository highlights the journey of our October 2023 cohort through:
+- 4 capstone projects that demonstrate practical, real-world data analysis applications.
+- 17 challenges designed to strengthen analytical skills and problem-solving capabilities.
+
+The page features:
+- Summaries of each project and challenge.
+- Direct links to the corresponding GitHub repositories for detailed exploration.
+- Screenshots illustrating the outputs and methodologies employed.
+- A breakdown of the key skills demonstrated in each task, including data visualisation, statistical modeling, programming, and more.
+
+This hub serves as both a showcase of our achievements and a resource for those interested in data analytics education and its real-world applications.
 
 ## Contents
 1. [Group Projects](#1-group-projects)
