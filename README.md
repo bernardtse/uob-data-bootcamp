@@ -114,7 +114,7 @@ Crowdfunding Data Analysis with Microsoft Excel
 
 **Overview:**
 
-This repository contains an Excel file that features a series of analyses performed on crowdfunding campaign data. The data, obtained from a dataset of 1,000 sample projects, has been processed to uncover insights into market trends, campaign outcomes, and other related metrics. The aim of the project is to analyse various factors that determine the success or failure of crowdfunding campaigns.
+This repository contains an Excel file that features a series of analyses performed on crowdfunding campaign data. The data, obtained from a dataset of 1,000 sample projects, has been processed to uncover insights into market trends, campaign outcomes, and other related metrics. The aim of this challenge is to analyse various factors that determine the success or failure of crowdfunding campaigns.
 
 Conditional formatting was applied to the `Outcome` and `Percent Funded` columns to visually highlight the campaign results and funding progress. Additionally, formulas such as `COUNTIFS()`, `AVERAGE()`, and `STDEV()` were used to calculate key metrics, including success rates and average donations. Pivot tables and charts were then created to summarise and visualise trends in the data, such as the number of successful campaigns across different categories and the relationship between campaign goals and outcomes. These methods collectively helped uncover patterns and provided valuable insights into the crowdfunding data.
 
@@ -165,7 +165,7 @@ PyCitySchools: School District Performance Analysis with Pandas
 
 **Overview:**
 
-In this challenge, the analysis of school and standardised test data for a city’s school district was performed. The goal was to extract key metrics about student performance, school spending, school size, and type. Using Pandas and Jupyter Notebook, various calculations and aggregations were made to generate insights, trends, and performance summaries for different schools within the district. Patterns such as the impact of school size and spending on student performance were revealed, providing valuable information for strategic decisions regarding future school budgets and priorities. The project involved creating multiple dataframes to showcase performance across several dimensions, including district-wide averages, school-specific summaries, and performance rankings.
+In this challenge, the analysis of school and standardised test data for a city’s school district was performed. The goal was to extract key metrics about student performance, school spending, school size, and type. Using Pandas and Jupyter Notebook, various calculations and aggregations were made to generate insights, trends, and performance summaries for different schools within the district. Patterns such as the impact of school size and spending on student performance were revealed, providing valuable information for strategic decisions regarding future school budgets and priorities. This challenge involved creating multiple dataframes to showcase performance across several dimensions, including district-wide averages, school-specific summaries, and performance rankings.
   
 **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 
@@ -212,7 +212,7 @@ EmployeeSQL Analysis and Database Setup
 
 **Overview:**
 
-This project focuses on analysing historical employee data for Pewlett Hackard, a fictional company, using PostgreSQL. The primary objectives include designing an Entity Relationship Diagram (ERD), creating a database schema, importing CSV data, and running SQL queries to answer key analytical questions. The dataset represents employees, their departments, titles, salaries, and managerial roles during the 1980s and 1990s.
+This challenge focuses on analysing historical employee data for Pewlett Hackard, a fictional company, using PostgreSQL. The primary objectives include designing an Entity Relationship Diagram (ERD), creating a database schema, importing CSV data, and running SQL queries to answer key analytical questions. The dataset represents employees, their departments, titles, salaries, and managerial roles during the 1980s and 1990s.
   
 **URL:** [https://github.com/bernardtse/sql-challenge](https://github.com/bernardtse/sql-challenge)
 
@@ -257,7 +257,7 @@ UK Food Hygiene Rating Analysis
 
 **Overview:**
 
-The UK Food Standards Agency assesses food hygiene ratings for establishments across the United Kingdom. This project analyses data from the agency to help journalists at *Eat Safe, Love* identify key insights for articles. The analysis is carried out using MongoDB and Jupyter Notebooks, focusing on data manipulation, updates, and exploratory queries.
+The UK Food Standards Agency assesses food hygiene ratings for establishments across the United Kingdom. This challenge analyses data from the agency to help journalists at *Eat Safe, Love* identify key insights for articles. The analysis is carried out using MongoDB and Jupyter Notebooks, focusing on data manipulation, updates, and exploratory queries.
   
 **URL:** [https://github.com/bernardtse/nosql-challenge](https://github.com/bernardtse/nosql-challenge)
 
@@ -274,7 +274,7 @@ Belly Button Biodiversity Web Dashboard
 
 The Belly Button Biodiversity Dashboard is an interactive visualisation tool designed to explore the Belly Button Biodiversity dataset. This dataset catalogues the microbes that colonise human navels. The study reveals that a small number of microbial species, known as operational taxonomic units (OTUs), are present in over 70% of individuals. However, the majority of species are relatively rare. 
 
-The dashboard allows users to analyse this microbial diversity through dynamic visualisations, including bar and bubble charts. It also displays demographic metadata associated with each sample. By enabling the selection and examination of individual samples, the project highlights the significance of microbial presence and variation within the human navel microbiome.
+The dashboard allows users to analyse this microbial diversity through dynamic visualisations, including bar and bubble charts. It also displays demographic metadata associated with each sample. By enabling the selection and examination of individual samples, this dashboard highlights the significance of microbial presence and variation within the human navel microbiome.
 
 **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
 
