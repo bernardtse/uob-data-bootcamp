@@ -22,22 +22,22 @@ This hub serves as both a showcase of my achievements and a resource for those i
 
 2. [Challenges](#2-challenges)
    - [excel-challenge](#excel-challenge) - Crowdfunding Data Analysis with Microsoft Excel
-   - [VBA-challenge](#vba-challenge) - Stock Market Analysis with VBA
+   - [vba-challenge](#vba-challenge) - Stock Market Analysis with VBA
    - [python-challenge](#python-challenge) - Python Data Analysis Applications: PyBank and PyPoll
    - [pandas-challenge](#pandas-challenge) - PyCitySchools: School District Performance Analysis with Pandas
-   - [module5-challenge](#module5-challenge) - Pymaceuticals: Data Visualisation and Statistical Analysis
+   - [python-visualisation-challenge](#python-visualisation-challenge) - Pymaceuticals: Data Visualisation and Statistical Analysis
    - [python-api-challenge](#python-api-challenge) - WeatherPy and VacationPy: API Data Retrieval and Visualisation
    - [sql-challenge](#sql-challenge) - EmployeeSQL Analysis and Database Setup
    - [sqlalchemy-challenge](#sqlalchemy-challenge) - SurfsUp: Climate Analysis and Flask API
-   - [module11-challenge](#module11-challenge) - Mars News and Weather: Web Scraping and Data Analysis
+   - [web-scraping-challenge](#web-scraping-challenge) - Mars News and Weather: Web Scraping and Data Analysis
    - [nosql-challenge](#nosql-challenge) - UK Food Hygiene Rating Analysis
    - [belly-button-challenge](#belly-button-challenge) - Belly Button Biodiversity Web Dashboard
    - [leaflet-challenge](#leaflet-challenge) - US Geological Survey Data Visualisation with Leaf.js
    - [tableau-challenge](#tableau-challenge) - Citi Bike Ridership Data Visualisation
-   - [CryptoClustering](#cryptoclustering) - Cryptocurrency Price Change Prediction: Unsupervised Learning
-   - [credit-risk-classification](#credit-risk-classification) - Loan Risk Prediction with Supervised Learning Models
+   - [crypto-clustering-challenge](#crypto-clustering-challenge) - Cryptocurrency Price Change Prediction: Unsupervised Learning
+   - [credit-risk-classification-challenge](#credit-risk-classification-challenge) - Loan Risk Prediction with Supervised Learning Models
    - [deep-learning-challenge](#deep-learning-challenge) - Charity Funding Predictions with Neural Network Models
-   - [Home_Sales](#home_sales) - Home Sales Data Analysis with SparkSQL
+   - [home-sales-challenge](#home-sales-challenge) - Home Sales Data Analysis with SparkSQL
 
 ---
 
@@ -65,7 +65,7 @@ This project analyses changes in music listening habits over the past six years,
 
 This Crowdfunding ETL (Extract, Transform, Load) Mini Project involves building an ETL pipeline to process and analyse crowdfunding data. The project includes data extraction and transformation using Python and Pandas, followed by exporting the data into CSV files for further use. These CSV files are then used to create an Entity-Relationship Diagram (ERD) and a database schema, which are implemented in a PostgreSQL database. The processed data is analysed to provide meaningful insights into the crowdfunding campaign landscape.
 
-**URL:** [https://github.com/bernardtse/Crowdfunding_ETL](https://github.com/bernardtse/Crowdfunding_ETL)
+**URL:** [https://github.com/bernardtse/crowdfunding-etl](https://github.com/bernardtse/crowdfunding-etl)
 
 **Skills:** Python, PostgreSQL, data ETL (extract, load, transform)
 
@@ -97,7 +97,7 @@ This project develops a data engineering solution to analyse fitness patterns fr
 
 This project develops a predictive model to identify individuals at risk of diabetes using machine learning and health data, including BMI, age, blood pressure, and dietary habits. Using algorithms such as Logistic Regression, Random Forest, Decision Tree, SVM, KNN, and Neural Networks, the model analyses anonymised health records to uncover key risk factors for diabetes. The project also includes a user-friendly web application where users can input health parameters and receive diabetes risk predictions with explanations, supporting early detection and improved public health management.
   
-**URL:** [https://github.com/bernardtse/diabetes_prediction](https://github.com/bernardtse/diabetes_prediction)
+**URL:** [https://github.com/bernardtse/diabetes-prediction](https://github.com/bernardtse/diabetes-prediction)
 
 **Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, Javascript, data ETL
 
@@ -126,18 +126,18 @@ Conditional formatting was applied to the `Outcome` and `Percent Funded` columns
 
 ---
 
-### VBA-challenge
+### vba-challenge
 Stock Market Analysis with VBA
 
 **Overview:**
 
 This challenge focuses on analysing stock market data using VBA (Visual Basic for Applications) scripting in Excel. The task is to create a script that loops through quarterly stock data and calculates key metrics, including the ticker symbol, quarterly price changes, percentage change, total stock volume, and highlights the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. Additionally, the script applies conditional formatting to highlight positive and negative changes in stock prices, making the results visually clear and easy to interpret.
 
-**URL:** [https://github.com/bernardtse/VBA-challenge](https://github.com/bernardtse/VBA-challenge)
+**URL:** [https://github.com/bernardtse/vba-challenge](https://github.com/bernardtse/vba-challenge)
 
 **Skills:** Excel, VBA
 
-![VBA-challenge](images/repos/02_vba/macro.png)
+![vba-challenge](images/repos/02_vba/macro.png)
 
 ---
 
@@ -175,7 +175,7 @@ In this challenge, the analysis of school and standardised test data for a cityâ
 
 ---
 
-### module5-challenge
+### python-visualisation-challenge
 Pymaceuticals: Data Visualisation and Statistical Analysis
 
 **Overview:**
@@ -184,11 +184,11 @@ This challenge focuses on analysing preclinical study data from Pymaceuticals, I
 
 As the senior data analyst, the task was to clean and process the data, conduct statistical analyses, and generate visualisations to summarise findings. Key aspects included calculating summary statistics, identifying outliers, performing correlation and regression analyses, and creating plots to effectively communicate the results. This challenge required strong skills in data manipulation, statistical interpretation, and visual storytelling using Python and Matplotlib.
 
-**URL:** [https://github.com/bernardtse/module5-challenge](https://github.com/bernardtse/module5-challenge)
+**URL:** [https://github.com/bernardtse/python-visualisation-challenge](https://github.com/bernardtse/python-visualisation-challenge)
 
 **Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
 
-![module5-challenge](images/repos/05_matplotlib/linear_regression.png)
+![python-visualisation-challenge](images/repos/05_matplotlib/linear_regression.png)
 
 ---
 
@@ -237,18 +237,18 @@ This challenge analyses climate data for Honolulu, Hawaii, to aid in planning a 
 
 ---
 
-### module11-challenge
+### web-scraping-challenge
 Mars News and Weather: Web Scraping and Data Analysis
 
 **Overview:**
 
 This challenge involves scraping and analysing data related to Mars using web scraping techniques. Part 1 focuses on scraping news articles from NASA's Mars News website to extract titles and previews of the latest articles. Part 2 involves scraping and analysing weather data from the Mars Temperature Data Site, which includes insights about temperature and atmospheric pressure. The results are designed to be insightful and visually accessible.
   
-**URL:** [https://github.com/bernardtse/module11-challenge](https://github.com/bernardtse/module11-challenge)
+**URL:** [https://github.com/bernardtse/web-scraping-challenge](https://github.com/bernardtse/web-scraping-challenge)
 
 **Skills:** Python, Beautiful Soup (web scraping)
 
-![module11-challenge](images/repos/11_webscraping/webscraping.png)
+![web-scraping-challenge](images/repos/11_webscraping/webscraping.png)
 
 ---
 
@@ -314,33 +314,33 @@ The Citi Bike programme, the largest bike-sharing initiative in the United State
 
 ---
 
-### CryptoClustering
+### crypto-clustering-challenge
 Cryptocurrency Price Change Prediction: Unsupervised Learning
 
 **Overview:**
 
 This challenge focuses on predicting whether cryptocurrencies are influenced by 24-hour or 7-day price changes using Python and unsupervised learning. The prediction process is conducted twice: first, using the original data, and second, using Principal Components Analysis (PCA) data. The results are then compared to determine the optimal approach for unsupervised learning.
 
-**URL:** [https://github.com/bernardtse/CryptoClustering](https://github.com/bernardtse/CryptoClustering)
+**URL:** [https://github.com/bernardtse/crypto-clustering-challenge](https://github.com/bernardtse/crypto-clustering-challenge)
 
 **Skills:** Python, Scikit-learn (unsupervised learning)
 
-![CryptoClustering](images/repos/19_unsupervisedlearning/cluster_plot.png)
+![crypto-clustering-challenge](images/repos/19_unsupervisedlearning/cluster_plot.png)
 
 ---
 
-### credit-risk-classification
+### credit-risk-classification-challenge
 Loan Risk Prediction with Supervised Learning Models
 
 **Overview:**
 
 This challenge uses various techniques to train and evaluate a supervised machine learning model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company is used to build a model that can identify the creditworthiness of borrowers.
   
-**URL:** [https://github.com/bernardtse/credit-risk-classification](https://github.com/bernardtse/credit-risk-classification)
+**URL:** [https://github.com/bernardtse/credit-risk-classification-challenge](https://github.com/bernardtse/credit-risk-classification-challenge)
 
 **Skills:** Python, Scikit-learn (supervised learning)
 
-![credit-risk-classification](images/repos/20_supervisedlearning/evaluation.png)
+![credit-risk-classification-challenge](images/repos/20_supervisedlearning/evaluation.png)
 
 ---
 
@@ -359,15 +359,15 @@ The non-profit foundation Alphabet Soup requires a tool to select funding applic
 
 ---
 
-### Home_Sales
+### home-sales-challenge
 Home Sales Data Analysis with SparkSQL
 
 **Overview:**
 
 This challenge uses SparkSQL to determine key metrics about home sales data. Spark will be used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
   
-**URL:** [https://github.com/bernardtse/Home_Sales](https://github.com/bernardtse/Home_Sales)
+**URL:** [https://github.com/bernardtse/home-sales-challenge](https://github.com/bernardtse/home-sales-challenge)
 
 **Skills:** Python, PySpark
 
-![Home_Sales](images/repos/22_bigdata/query.png)
+![home-sales-challenge](images/repos/22_bigdata/query.png)
