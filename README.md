@@ -208,7 +208,7 @@ This challenge explores global weather patterns and demonstrates how weather dat
 ---
 
 ### sql-challenge
-EmployeeSQL Analysis and Database Setup
+EmployeeSQL Database Setup and Analysis
 
 **Overview:**
 
