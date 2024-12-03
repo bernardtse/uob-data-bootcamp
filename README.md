@@ -27,7 +27,7 @@ This hub serves as both a showcase of my achievements and a resource for those i
    - [pandas-challenge](#pandas-challenge) - PyCitySchools: School District Performance Analysis with Pandas
    - [python-visualisation-challenge](#python-visualisation-challenge) - Pymaceuticals: Data Visualisation and Statistical Analysis
    - [python-api-challenge](#python-api-challenge) - WeatherPy and VacationPy: API Data Retrieval and Visualisation
-   - [sql-challenge](#sql-challenge) - EmployeeSQL Analysis and Database Setup
+   - [sql-challenge](#sql-challenge) - EmployeeSQL Database Setup and Analysis
    - [sqlalchemy-challenge](#sqlalchemy-challenge) - SurfsUp: Climate Analysis and Flask API
    - [web-scraping-challenge](#web-scraping-challenge) - Mars News and Weather: Web Scraping and Data Analysis
    - [nosql-challenge](#nosql-challenge) - UK Food Hygiene Rating Analysis
