@@ -24,7 +24,7 @@ This hub serves as both a showcase of my achievements and a resource for those i
    - [excel-challenge](#excel-challenge) - Crowdfunding Data Analysis with Microsoft Excel
    - [vba-challenge](#vba-challenge) - Stock Market Analysis with VBA
    - [python-challenge](#python-challenge) - Python Data Analysis Applications: PyBank and PyPoll
-   - [pandas-challenge](#pandas-challenge) - PyCitySchools: School District Performance Analysis with Pandas
+   - [pandas-challenge](#pandas-challenge) - PyCitySchools: School District Performance Analysis with pandas
    - [python-visualisation-challenge](#python-visualisation-challenge) - Pymaceuticals: Data Visualisation and Statistical Analysis
    - [python-api-challenge](#python-api-challenge) - WeatherPy and VacationPy: API Data Retrieval and Visualisation
    - [sql-challenge](#sql-challenge) - EmployeeSQL Database Setup and Analysis
@@ -52,7 +52,7 @@ This project analyses changes in music listening habits over the past six years,
 
 **Fork:** [https://github.com/bernardtse/music-listening-habits-eda](https://github.com/bernardtse/music-listening-habits-eda)
 
-**Skills:** Python, Pandas, Matplotlib, JSON, EDA (exploratory data analysis)
+**Skills:** Python, pandas, Matplotlib, JSON, EDA (exploratory data analysis)
 
 **Collaborators:** [Catarina Ferreira](https://github.com/catisf), [Daniel Hughes](https://github.com/DanielHughes1580), [Kehlani Jaan Khan](https://github.com/kehlanijaan), [Tafadzwa Fararira](https://github.com/BootcampCoderTF)
 
@@ -63,7 +63,7 @@ This project analyses changes in music listening habits over the past six years,
 ### Project 2 - Crowdfunding ETL
 **Overview:**
 
-This Crowdfunding ETL (Extract, Transform, Load) Mini Project involves building an ETL pipeline to process and analyse crowdfunding data. The project includes data extraction and transformation using Python and Pandas, followed by exporting the data into CSV files for further use. These CSV files are then used to create an Entity-Relationship Diagram (ERD) and a database schema, which are implemented in a PostgreSQL database. The processed data is analysed to provide meaningful insights into the crowdfunding campaign landscape.
+This Crowdfunding ETL (Extract, Transform, Load) Mini Project involves building an ETL pipeline to process and analyse crowdfunding data. The project includes data extraction and transformation using Python and pandas, followed by exporting the data into CSV files for further use. These CSV files are then used to create an Entity-Relationship Diagram (ERD) and a database schema, which are implemented in a PostgreSQL database. The processed data is analysed to provide meaningful insights into the crowdfunding campaign landscape.
 
 **URL:** [https://github.com/bernardtse/crowdfunding-etl](https://github.com/bernardtse/crowdfunding-etl)
 
@@ -161,15 +161,15 @@ This challenge involves creating two Python-based data analysis applications: **
 ---
 
 ### pandas-challenge
-PyCitySchools: School District Performance Analysis with Pandas
+PyCitySchools: School District Performance Analysis with pandas
 
 **Overview:**
 
-In this challenge, the analysis of school and standardised test data for a city’s school district was performed. The goal was to extract key metrics about student performance, school spending, school size, and type. Using Pandas and Jupyter Notebook, various calculations and aggregations were made to generate insights, trends, and performance summaries for different schools within the district. Patterns such as the impact of school size and spending on student performance were revealed, providing valuable information for strategic decisions regarding future school budgets and priorities. This challenge involved creating multiple dataframes to showcase performance across several dimensions, including district-wide averages, school-specific summaries, and performance rankings.
+In this challenge, the analysis of school and standardised test data for a city’s school district was performed. The goal was to extract key metrics about student performance, school spending, school size, and type. Using pandas and Jupyter Notebook, various calculations and aggregations were made to generate insights, trends, and performance summaries for different schools within the district. Patterns such as the impact of school size and spending on student performance were revealed, providing valuable information for strategic decisions regarding future school budgets and priorities. This challenge involved creating multiple dataframes to showcase performance across several dimensions, including district-wide averages, school-specific summaries, and performance rankings.
   
 **URL:** [https://github.com/bernardtse/pandas-challenge](https://github.com/bernardtse/pandas-challenge)
 
-**Skills:** Python, Pandas
+**Skills:** Python, pandas
 
 ![pandas-challenge](images/repos/04_pandas/pycityschools_screenshot.png)
 
@@ -186,7 +186,7 @@ As the senior data analyst, the task was to clean and process the data, conduct 
 
 **URL:** [https://github.com/bernardtse/python-visualisation-challenge](https://github.com/bernardtse/python-visualisation-challenge)
 
-**Skills:** Python, Pandas, Matplotlib, NumPy, SciPy
+**Skills:** Python, pandas, Matplotlib, NumPy, SciPy
 
 ![python-visualisation-challenge](images/repos/05_matplotlib/linear_regression.png)
 
@@ -201,7 +201,7 @@ This challenge explores global weather patterns and demonstrates how weather dat
   
 **URL:** [https://github.com/bernardtse/python-api-challenge](https://github.com/bernardtse/python-api-challenge)
 
-**Skills:** Python, JSON, Pandas, MatPlotlib, hvPlot
+**Skills:** Python, JSON, pandas, MatPlotlib, hvPlot
 
 ![python-api-challenge](images/repos/06_pythonapi/hvplot.png)
 
@@ -227,11 +227,11 @@ SurfsUp: Climate Analysis and Flask API
 
 **Overview:**
 
-This challenge analyses climate data for Honolulu, Hawaii, to aid in planning a holiday trip. It uses Python, SQLAlchemy, Pandas, Matplotlib, and Flask to explore historical weather data, perform precipitation and station analyses, and provide a Flask API for dynamic data retrieval. The analysis includes precipitation trends, station activities, and temperature observations, alongside API endpoints for data access.
+This challenge analyses climate data for Honolulu, Hawaii, to aid in planning a holiday trip. It uses Python, SQLAlchemy, pandas, Matplotlib, and Flask to explore historical weather data, perform precipitation and station analyses, and provide a Flask API for dynamic data retrieval. The analysis includes precipitation trends, station activities, and temperature observations, alongside API endpoints for data access.
   
 **URL:** [https://github.com/bernardtse/sqlalchemy-challenge](https://github.com/bernardtse/sqlalchemy-challenge)
 
-**Skills:** Python, SQLAlchemy, SQLite, Pandas, Matplotlib, Flask
+**Skills:** Python, SQLAlchemy, SQLite, pandas, Matplotlib, Flask
 
 ![sqlalchemy-challenge](images/repos/10_sqlalchemy/sqlalchemy.png)
 
