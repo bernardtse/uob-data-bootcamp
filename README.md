@@ -84,7 +84,7 @@ This project develops a data engineering solution to analyse fitness patterns fr
 
 **Fork:** [https://github.com/bernardtse/garmin-data-engineering](https://github.com/bernardtse/garmin-data-engineering)
 
-**Skills:** Python, SQLite, Flask, HTML, CSS, Javascript, data ETL
+**Skills:** Python, SQLite, Flask, HTML, CSS, JavaScript, data ETL
 
 **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Mohammed Nawaz](https://github.com/MoNawaz101), [Nida Ballinger-Chaudhary](https://github.com/NidaB-C)
 
@@ -99,7 +99,7 @@ This project develops a predictive model to identify individuals at risk of diab
   
 **URL:** [https://github.com/bernardtse/diabetes-prediction](https://github.com/bernardtse/diabetes-prediction)
 
-**Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, Javascript, data ETL
+**Skills:** Python, PySpark, Seaborn, Scikit-learn (supervised learning), TensorFlow, HTML, CSS, JavaScript, data ETL
 
 **Collaborators:** [Aysha Gheewala](https://github.com/AyshaGheewala), [Godswill Anyasor](https://github.com/AnyasorG), [Kehlani Jaan Khan](https://github.com/kehlanijaan)
 
@@ -278,7 +278,7 @@ The dashboard allows users to analyse this microbial diversity through dynamic v
 
 **URL:** [https://github.com/bernardtse/belly-button-challenge](https://github.com/bernardtse/belly-button-challenge)
 
-**Skills:** HTML, CSS, Javascript, D3.js, Plotly.js, Bootstrap
+**Skills:** HTML, CSS, JavaScript, D3.js, Plotly.js, Bootstrap
 
 ![belly-button-challenge](images/repos/14_webvisualisation/webviz_screenshot.png)
 
@@ -293,7 +293,7 @@ The United States Geological Survey (USGS), is responsible for providing scienti
   
 **URL:** [https://github.com/bernardtse/leaflet-challenge](https://github.com/bernardtse/leaflet-challenge)
 
-**Skills:** HTML, CSS, Javascript, Leaflet.js
+**Skills:** HTML, CSS, JavaScript, Leaflet.js
 
 ![leaflet-challenge](images/repos/15_leaflet/leaflet_part2.png)
 
