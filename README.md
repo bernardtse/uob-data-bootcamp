@@ -46,7 +46,7 @@ This hub serves as both a showcase of my achievements and a resource for those i
 ### Project 1 - Exploratory Data Analysis: Music Listening Habits on Spotify
 **Overview:**
 
-This project analyses changes in music listening habits over the past six years, examining impacts from the COVID-19 pandemic and TikTok’s rise. Using Spotify’s yearly top 100 playlists from 2017 to 2022, we collected and prepared track data, including genre, popularity, and audio features, via the Spotipy API, integrating it into a structured dataframe. After extensive data cleaning and validation, we conducted exploratory data analysis to identify trends in song duration, genre shifts, and feature changes. Key findings highlight a decrease in song length, correlating with TikTok’s influence, and evolving trends in danceability, energy, and positivity.
+This project analyses changes in music listening habits over the past six years, examining impacts from the COVID-19 pandemic and TikTok’s rise. Using Spotify’s yearly top 100 playlists from 2017 to 2022, we collected and prepared track data, including genre, popularity, and audio features, via the Spotipy library, integrating it into a structured dataframe. After extensive data cleaning and validation, we conducted exploratory data analysis to identify trends in song duration, genre shifts, and feature changes. Key findings highlight a decrease in song length, correlating with TikTok’s influence, and evolving trends in danceability, energy, and positivity.
   
 **Original Repository:** [https://github.com/catisf/Project-1-Group-2](https://github.com/catisf/Project-1-Group-2)
 
